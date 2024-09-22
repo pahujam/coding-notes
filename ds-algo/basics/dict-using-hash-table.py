@@ -1,3 +1,4 @@
+# Q: Implement Dict using Hash Table
 class MyDict:
     def __init__(self):
         self.size = 10  # Initial size of the hash table

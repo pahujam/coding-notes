@@ -1,3 +1,4 @@
+# Q: Implement set using hash table
 class MySet:
     def __init__(self):
         self.size = 10  # Initial size of the hash table

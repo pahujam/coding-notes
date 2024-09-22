@@ -1,3 +1,4 @@
+# Q: Implement Stack using List
 class Stack:
     def __init__(self):
         self.items = []
